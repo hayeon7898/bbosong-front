@@ -68,6 +68,9 @@
 |<img width="375" height="812" alt="return1" src="https://github.com/user-attachments/assets/d0d1893b-6aeb-400f-b6c7-cf2eff6f68ac" />|<img width="375" height="812" alt="return2" src="https://github.com/user-attachments/assets/ee48c28c-d8a0-4eb9-96ad-40d11eb52762" />|<img width="375" height="812" alt="return3" src="https://github.com/user-attachments/assets/f030a2c6-edb9-4501-8291-ac81f59aed22" />|<img width="375" height="812" alt="return4" src="https://github.com/user-attachments/assets/63212a2b-3aba-4cd3-813c-e9a147ec62dd" />|
 
 ### 5. Rewards (✅)
+- 지도에 제휴가 표시된 지역 소상공인 가게에서 QR 인식 시 reward를 받을 수 있습니다.
+- 가게에 따라 제공되는 reward(방울이)의 개수가 다릅니다.
+
 |Reward QR|QR Error|Reward 1|Reward 2|
 |---|---|---|---|
 |<img width="375" height="812" alt="reward1" src="https://github.com/user-attachments/assets/982d10a7-b789-4fba-bfa1-73f648ce28fc" />|<img width="375" height="812" alt="reward-error" src="https://github.com/user-attachments/assets/f176384b-1fc8-4f61-b616-4f90e164ef15" />|<img width="375" height="812" alt="reward2" src="https://github.com/user-attachments/assets/1d0ee354-2abd-4bc0-93cf-cb05f3668ff9" />|<img width="375" height="812" alt="reward3" src="https://github.com/user-attachments/assets/7d7ecdb1-9a65-4759-b191-0c36e7514499" />|
