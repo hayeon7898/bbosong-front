@@ -22,6 +22,7 @@
 ### 2. Main 
 - 뽀송 앱의 홈 화면입니다.
 - 대여 중인 시간을 확인하고, 연장할 수 있습니다. (✅)
+- 또한 My Page에서 본인의 리워드 개수, 대여 횟수 등을 확인할 수 있습니다. (✅)
 
 |Main|My Rental|Rental Extension|MyPage|
 |---|---|---|---|
@@ -38,7 +39,18 @@
 
 
 ### 4. Umbrella Rental/Retrun (✅)
-#### Rental 
+#### 4.1. QR
+- 반납/대여 QR을 선택할 수 있습니다.
+- 반납/대여 완료 시 우산에 나와있는 광고주의 근처 가게를 추천해줍니다.
+
+<img width="1436" height="412" alt="umbrella" src="https://github.com/user-attachments/assets/2b0e9d2a-d3ac-473b-8402-e567f273a40e" />
+
+
+|Before QR|Rental QR|Return QR|After QR|
+|---|---|---|---|
+|<img width="375" height="812" alt="QR1" src="https://github.com/user-attachments/assets/34f595bf-7cbf-4e83-a0e7-a00532eed8f4" />|<img width="375" height="812" alt="rental1" src="https://github.com/user-attachments/assets/1084475e-d609-4b6b-93d0-4ec9d21de3b9" />|<img width="375" height="812" alt="return1" src="https://github.com/user-attachments/assets/d0d1893b-6aeb-400f-b6c7-cf2eff6f68ac" />|<img width="375" height="812" alt="QR2" src="https://github.com/user-attachments/assets/f1e23053-2706-4fcc-b075-4e6a7fa89ffe" />|
+
+#### 4.2. Rental 
 - 우산 스테이션의 QR을 인식하여 보증금 결제 후 우산을 대여할 수 있습니다.
 - 반납해야하는 일자와 시간을 안내해줍니다.
 
@@ -46,7 +58,7 @@
 |---|---|---|---|
 |<img width="375" height="812" alt="rental1" src="https://github.com/user-attachments/assets/1084475e-d609-4b6b-93d0-4ec9d21de3b9" />|<img width="375" height="812" alt="rental2" src="https://github.com/user-attachments/assets/5ee3169e-1257-4db5-9657-da94849e8e06" />|<img width="399" height="812" alt="rental3" src="https://github.com/user-attachments/assets/40684a77-3659-4099-90e9-70b12f222f41" />|<img width="375" height="812" alt="rental4" src="https://github.com/user-attachments/assets/5190f514-eab3-483e-8c27-41ecbcf59897" />|
 
-#### Return 
+#### 4.3. Return 
 - 우산 스테이션의 QR을 인식하여 우산을 반납할 수 있습니다.
 - 반납 완료 시, 보증금을 환급받을 수 있습니다.
 - 또한 반납 시 리워드를 제공하며, 탄소 저감 효과를 유저가 체감할 수 있도록 안내합니다.
@@ -56,9 +68,10 @@
 |<img width="375" height="812" alt="return1" src="https://github.com/user-attachments/assets/d0d1893b-6aeb-400f-b6c7-cf2eff6f68ac" />|<img width="375" height="812" alt="return2" src="https://github.com/user-attachments/assets/ee48c28c-d8a0-4eb9-96ad-40d11eb52762" />|<img width="375" height="812" alt="return3" src="https://github.com/user-attachments/assets/f030a2c6-edb9-4501-8291-ac81f59aed22" />|<img width="375" height="812" alt="return4" src="https://github.com/user-attachments/assets/63212a2b-3aba-4cd3-813c-e9a147ec62dd" />|
 
 ### 5. Rewards (✅)
-|||||
+|Reward QR|QR Error|Reward 1|Reward 2|
 |---|---|---|---|
-|||||
+|<img width="375" height="812" alt="reward1" src="https://github.com/user-attachments/assets/982d10a7-b789-4fba-bfa1-73f648ce28fc" />|<img width="375" height="812" alt="reward-error" src="https://github.com/user-attachments/assets/f176384b-1fc8-4f61-b616-4f90e164ef15" />|<img width="375" height="812" alt="reward2" src="https://github.com/user-attachments/assets/1d0ee354-2abd-4bc0-93cf-cb05f3668ff9" />|<img width="375" height="812" alt="reward3" src="https://github.com/user-attachments/assets/7d7ecdb1-9a65-4759-b191-0c36e7514499" />|
+
 
 ---
 ## 🛠 Tech Stack
