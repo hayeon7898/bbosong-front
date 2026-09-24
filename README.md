@@ -81,7 +81,7 @@
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-| Type | Tech Stack <img width=700>|
+| Type | Tech Stack <img width=690>|
 | --- | --- |
 | **Navigation** | ![React Navigation](https://img.shields.io/badge/React_Navigation-6B52AE?style=flat&logo=react&logoColor=white) |
 | **Network** | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white) |
