@@ -28,25 +28,34 @@
 |<img width="375" height="812" alt="Main" src="https://github.com/user-attachments/assets/3f28a7d4-7836-4dff-a800-12de77dc4c32" />|<img width="375" height="812" alt="MyPage1" src="https://github.com/user-attachments/assets/fc5a9e11-c279-41dd-848c-5819fb5e8004" />|<img width="375" height="812" alt="MyPage2" src="https://github.com/user-attachments/assets/9abb07eb-b8e3-4d8b-a71a-0931573f4fcc" />|<img width="375" height="812" alt="MyPage3" src="https://github.com/user-attachments/assets/22764e27-01b3-420c-b593-cc0fd9c3c407" />|
 
 ### 3. Map
-- 우산을 대여/반납을 위해 가까운 스테이션을 찾을 수 있습니다.
-- 날씨 기반 키워드(ex. 폭염-풀냉방, 이열치열 등)를 통해 지역 소상공인 가게를 추천해줍니다. 해당 가게를 이용 시엔 리워드를 제공받을 수 있습니다.
-- 또한 광고주의 경우는 스폰서 표시를 통해 위치를 광고해줍니다.
+- 우산 대여/반납을 위해 가까운 스테이션을 찾을 수 있습니다.
+- 날씨 기반 키워드(예: 폭염-풀냉방, 이열치열)로 지역 소상공인 가게를 추천하며, 해당 가게를 방문하면 리워드를 받을 수 있습니다.
+- 광고주 가게는 스폰서 표시로 지도에 노출되어 위치를 홍보할 수 있습니다.
 
-|기본|우산 스테이션|키워드 기반 가게 추천|스폰서 가게 광고|
-|---|---|---|---|
-|<img width="180" height="283.9" alt="map1" src="https://github.com/user-attachments/assets/17cb7dc5-7288-45ac-8449-cf559ee3b5a3" />|<img width="180" height="" alt="283.3" src="https://github.com/user-attachments/assets/f4770843-cb21-4f23-a0f5-f47ef06f5180" />|<img width="131.11" height="283.9" alt="map3" src="https://github.com/user-attachments/assets/56bc6870-0317-44fa-b35c-dce99189bb6a" />|<img width="180" height="283.9" alt="map4" src="https://github.com/user-attachments/assets/efa83101-6c63-4663-8b51-0f7c1a33465f" />|
+| Map | Umbrella Station | Keyword Recommendation | Sponsor Store |
+| --- | --- | --- | --- |
+| <img height="390" alt="지도 화면" src="https://github.com/user-attachments/assets/17cb7dc5-7288-45ac-8449-cf559ee3b5a3" /> | <img height="390" alt="우산 스테이션" src="https://github.com/user-attachments/assets/f4770843-cb21-4f23-a0f5-f47ef06f5180" /> | <img height="360" alt="키워드 추천" src="https://github.com/user-attachments/assets/56bc6870-0317-44fa-b35c-dce99189bb6a" /> | <img height="390" alt="스폰서 가게" src="https://github.com/user-attachments/assets/efa83101-6c63-4663-8b51-0f7c1a33465f" /> |
 
 
-### 4. Umbrella Rental/Retrun
-#### Rental (✅)
-|||||
+### 4. Umbrella Rental/Retrun (✅)
+#### Rental 
+- 우산 스테이션의 QR을 인식하여 보증금 결제 후 우산을 대여할 수 있습니다.
+- 반납해야하는 일자와 시간을 안내해줍니다.
+
+|Rental 1|Rental 2|Rental 3|Rental 4|
 |---|---|---|---|
-|||||
-#### Return (✅)
-|||||
+|<img width="375" height="812" alt="rental1" src="https://github.com/user-attachments/assets/1084475e-d609-4b6b-93d0-4ec9d21de3b9" />|<img width="375" height="812" alt="rental2" src="https://github.com/user-attachments/assets/5ee3169e-1257-4db5-9657-da94849e8e06" />|<img width="399" height="812" alt="rental3" src="https://github.com/user-attachments/assets/40684a77-3659-4099-90e9-70b12f222f41" />|<img width="375" height="812" alt="rental4" src="https://github.com/user-attachments/assets/5190f514-eab3-483e-8c27-41ecbcf59897" />|
+
+#### Return 
+- 우산 스테이션의 QR을 인식하여 우산을 반납할 수 있습니다.
+- 반납 완료 시, 보증금을 환급받을 수 있습니다.
+- 또한 반납 시 리워드를 제공하며, 탄소 저감 효과를 유저가 체감할 수 있도록 안내합니다.
+
+|Return 1|Return 2|Return 3|Return 4|
 |---|---|---|---|
-|||||
-### 5. Rewards
+|<img width="375" height="812" alt="return1" src="https://github.com/user-attachments/assets/d0d1893b-6aeb-400f-b6c7-cf2eff6f68ac" />|<img width="375" height="812" alt="return2" src="https://github.com/user-attachments/assets/ee48c28c-d8a0-4eb9-96ad-40d11eb52762" />|<img width="375" height="812" alt="return3" src="https://github.com/user-attachments/assets/f030a2c6-edb9-4501-8291-ac81f59aed22" />|<img width="375" height="812" alt="return4" src="https://github.com/user-attachments/assets/63212a2b-3aba-4cd3-813c-e9a147ec62dd" />|
+
+### 5. Rewards (✅)
 |||||
 |---|---|---|---|
 |||||
